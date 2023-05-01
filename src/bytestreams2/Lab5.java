@@ -8,7 +8,7 @@ public class Lab5 {
 
     public static void main(String[] args) {
 
-        Student s = new Student("65130500053", "Pheez");
+        Student s = new Student("65130500053", "Pheeraphat Dherachaisuphakij");
 
         try {
 
